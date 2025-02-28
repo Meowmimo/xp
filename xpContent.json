@@ -1,0 +1,7 @@
+{
+  "name": "Experience Point",
+  "description": "",
+  "symbol": "XP",
+  "decimals": 9,
+  "image": "https://raw.githubusercontent.com/Meowmimo/xp/main/xpImage.png"
+}
